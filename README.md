@@ -7,7 +7,7 @@ Oi, eu sou a Kat✨
 
 <div>
   <a href="https://github.com/Kathalen">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/> 
+ <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/> 
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=7&theme=bear"/>
 </div>
  
