@@ -3,7 +3,6 @@ Oi, eu sou a Kat✨
 - 🔭 Estou trabalhando atualmente como Dev Jr
 - 🌱 Estudando HTML, CSS, Javascript, C
 -  🎈 "Não uso redes sociais"
-- 📫 Pode entrar em contato comigo pelo e-mail: kathalen@hotmail.com
 
 
 <div>
