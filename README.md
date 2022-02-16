@@ -6,11 +6,11 @@ Oi, eu sou a Kat✨
 - 📫 Pode entrar em contato comigo pelo e-mail: kathalen@hotmail.com
 
 
-<div>
+<div align="center">
   <a href="https://github.com/Kathalen"> 
     
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/> 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=7&theme=bear"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=7&theme=bear"/>
 </div>
  
   <div style="display: inline_block"><br>
