@@ -7,10 +7,11 @@ Oi, eu sou a Kat✨
 
 
 <div>
-  <a href="https://github.com/Kathalen">
-   <img height="140em" img width: "700em" src="https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="120em" img width: "700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=7&theme=omni"/>
+  <img height = "160em" width = "400em" src = "https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
+  <img height = "160em" width = "600em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=16&theme=omni" />
+  <img src = "https://komarev.com/ghpvc/?username=Kathalen&color=red" alt = "Kathalen" /> 
 </div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Kat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
