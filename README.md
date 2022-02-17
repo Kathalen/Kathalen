@@ -8,7 +8,7 @@ Oi, eu sou a Kat✨
 
 <div style="display: inline_block">
   <img height = "140em" width="40%" src = "https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
-  <img height = "155em" width="60%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=16&theme=omni" />
+  <img height = "155em" width="58%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=16&theme=omni" />
   <img src = "https://komarev.com/ghpvc/?username=Kathalen&color=red" alt = "Kathalen" /> 
 </div>
   <div style="display: inline_block"><br>
