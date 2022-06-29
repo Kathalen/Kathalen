@@ -1,4 +1,4 @@
-Oi, eu sou a Kat✨
+## Oi, eu sou a Kat✨
 
 - 🔭 Estou trabalhando atualmente como Dev Jr
 - 🌱 Estudando HTML, CSS, Javascript, C
@@ -7,10 +7,11 @@ Oi, eu sou a Kat✨
 
 
 <div align="center">
-  <a href="https://github.com/Kathalen">
-  <img height="170em" width ="400" src="https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" width ="465" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Kat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
