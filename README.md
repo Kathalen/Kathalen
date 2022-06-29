@@ -7,9 +7,11 @@ Oi, eu sou a Kat✨
 
 
 <div style="display: inline_block">
-  <img height = "150em" width="40%" src = "https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
-  <img height = "155em" width="55%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=16&theme=omni" />
-  <img src = "https://komarev.com/ghpvc/?username=Kathalen&color=red" alt = "Kathalen" /> 
+   <div align="center">
+  <a href="https://github.com/Kathalen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=7&theme=omni"/>
+</div>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Kat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +19,8 @@ Oi, eu sou a Kat✨
   <img align="center" alt="Kat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kat-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" > </div>
   
+ 
+
  ##
      
  <div> 
