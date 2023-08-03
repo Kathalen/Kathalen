@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://beacons.ai/Kathalen">
-  <img height="150em; wesith:" src="https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="140em; wesith:" src="https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=16&theme=omni"/>
 </div>
 
