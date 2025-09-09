@@ -1,6 +1,6 @@
 ## Ola,
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/Kathalen">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Kathalen&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathalen&layout=compact&langs_count=20&theme=omni&"/>
